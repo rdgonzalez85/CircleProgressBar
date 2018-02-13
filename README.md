@@ -2,10 +2,11 @@
 
 Example that implements a circular (animated) progress bar.
 
-## Instalation
+## Installation
 
 ```ruby
 git clone https://github.com/rdgonzalez85/CircleProgressBar.git
+cd CircleProgressBar/
 open CircleProgressBar.xcodeproj/
 ```
 
