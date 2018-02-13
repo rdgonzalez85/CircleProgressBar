@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  CircleProgressBar
+
+  Created by Rodrigo Gonzalez on 12/02/2018.
+  Copyright © 2018 Rodrigo Gonzalez. All rights reserved.
+*/
+
+"main.credit.score" = "Your credit score is";
+"main.credit.out" = "out of";
