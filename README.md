@@ -6,7 +6,7 @@ Example that implements a circular (animated) progress bar.
 
 ```ruby
 git clone https://github.com/rdgonzalez85/CircleProgressBar.git
-open open CircleProgressBar.xcodeproj/
+open CircleProgressBar.xcodeproj/
 ```
 
 ## Demo
